@@ -11,7 +11,7 @@ html {
 .navbar-steven {
     margin-bottom: -7%;
     margin-top: -21vh;
-
+    width:15%;
 }
 header .navbar-steven:hover{
     background: rgba(51, 0, 0, .2);
